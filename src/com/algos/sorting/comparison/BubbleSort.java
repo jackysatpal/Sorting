@@ -1,6 +1,6 @@
 package com.algos.sorting.comparison;
 
-public class BubbleSort{
+public class BubbleSort implements Sort {
 
     public int[] sort(final int[] input) {
 
